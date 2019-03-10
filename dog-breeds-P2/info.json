@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2019-03-10 20:52:16.173577",
+    "dataset_id": "20190310-205142-6790",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20190310-205216-3a56",
+    "image dimensions": [
+        256,
+        256,
+        3
+    ],
+    "image resize mode": "squash",
+    "job id": "20190310-205216-3a56",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "Dog-Images_GoogLeNet",
+    "snapshot file": "snapshot_iter_420.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "amay"
+}
